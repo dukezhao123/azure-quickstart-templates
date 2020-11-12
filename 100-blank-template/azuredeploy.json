@@ -10,7 +10,7 @@
   "outputs": {
     "vmName": {
             "type": "array",
-            "value": "[variables('vmNames')]"
+            "value": ["test", "test1"]
         }
   }
 }
