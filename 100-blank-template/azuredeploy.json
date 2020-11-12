@@ -8,5 +8,9 @@
   "resources": [
   ],
   "outputs": {
+    "vmName": {
+            "type": "array",
+            "value": "[variables('vmNames')]"
+        }
   }
 }
